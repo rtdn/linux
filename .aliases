@@ -1,0 +1,4 @@
+alias d "ls -alF"
+alias e emacs -fg wheat -bg black -fn 9x15bold
+alias h history
+alias xt xterm -fg wheat -bg black -fn 9x15bold -sl 2048
